@@ -24,11 +24,6 @@
     //Gigas
     giga = gigaPool[Math.floor(Math.random() * gigaPool.length)];
 
-    //Support
-    for (n = 0; n < 5; n++) {
-        support[n] = supportPool[Math.floor(Math.random() * supportPool.length)];
-    }
-
     var firstemc = "[big][big]~Standard Cards~[/big][/big]<br>";
     for (i = 0; i < 24; i++) {
         firstemc += ("<br>" + standard[i]);

@@ -1,0 +1,65 @@
+﻿body 
+{
+    margin: auto;
+    width: 80%;
+}
+
+
+.top
+{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+button
+{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#section1
+{
+    width: 30%;
+    margin: auto;
+    
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+}
+
+#section2
+{
+    width: 30%;
+    margin: auto;
+    
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+
+}
+
+#section3
+{
+    width: 30%;
+    margin: auto;
+    
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid black;
+
+}
+
+table
+{
+    border-collapse: separate;
+    margin: auto;
+}
+
+.desc
+{
+    text-align: left;
+}
+
